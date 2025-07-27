@@ -1,0 +1,10 @@
+# Ignore runtime and secrets
+*.db
+*.shm
+*.wal
+*.log
+log/
+transcodes/
+jellyfin-config/data/
+jellyfin-config/cache/
+.env
